@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## this stuff is new to me, im looking forward to explore and have fun with it :)
 <!--
 **illusion8064/illusion8064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
