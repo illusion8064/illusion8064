@@ -1,5 +1,6 @@
  hey there :) \
- this stuff is fairly new to me, and im looking forward to exploring and having fun with it.
+i'm an electronics student obsessed with  unstable circuits, grainy photos and loud music.
+
 <!--
 **illusion8064/illusion8064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
