@@ -4,7 +4,6 @@ i'm an electronics student obsessed with  unstable circuits, grainy photos and l
 these are the languages/tools i frequently use:
 <div align="left">
   <!-- First row -->
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="cplusplus badge" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python badge" />
   <img src="https://img.shields.io/badge/-Verilog-red?style=for-the-badge" alt="verilog badge" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="matlab badge" />
